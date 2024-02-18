@@ -1,3 +1,3 @@
-a=2
-b=3
-print(b)
+b=6
+c=99
+print(c)
