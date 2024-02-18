@@ -1,3 +1,4 @@
 b=6
 c=99
-print(c)
+d=1
+print(c,d)
