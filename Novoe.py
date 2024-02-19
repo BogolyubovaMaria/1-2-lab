@@ -1,4 +1,5 @@
-b=6
+
 c=99
 d=113
-print(c,d)
+a=1
+print(a,d)
